@@ -22,6 +22,7 @@ Los ejercicios eran los siguientes:
     Y se nos pregunta si estos deberian estar vinculados por una agregación o por una composición.
 
 3) Se nos pide hacer lo mismo que en el ejercicio 2 pero sobre los siguientes pares de palabras:
+
     1.Planeta/Saturno
 
     2.Lista/Directorio telefónico
